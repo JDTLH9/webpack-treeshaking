@@ -1,0 +1,19 @@
+{
+  "name": "tree-shaking",
+  "version": "1.0.0",
+  "description": "WebPack Tree Shaking example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "JCB",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.0",
+    "css-loader": "^0.28.4",
+    "http-server": "^0.10.0",
+    "scss-loader": "0.0.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.0.0"
+  }
+}
